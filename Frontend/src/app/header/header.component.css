@@ -1,0 +1,8 @@
+.nav a{
+    padding-left: 2em;
+}
+.nav{
+    background-color: black;
+    position: sticky;
+    top: 0;
+}

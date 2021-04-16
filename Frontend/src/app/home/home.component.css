@@ -1,0 +1,12 @@
+.h{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+.cont{
+    margin-left: 10em;
+    margin-right: 10em;
+    text-align: center;
+    margin-top: 2em;
+}

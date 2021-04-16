@@ -1,0 +1,15 @@
+.boo{
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-weight: bold;
+    color: white;
+    padding: 5em;
+    background-color: black;
+    border-radius: 20px;
+}
+.boo input{
+    margin: .5em;
+
+}

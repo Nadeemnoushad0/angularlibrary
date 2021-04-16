@@ -1,0 +1,11 @@
+.dis{
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    display: flex;
+}
+h6{
+    background-color: rgba(0, 0, 0, 0.637);
+    border-radius: 5px;
+    color: white;
+}
